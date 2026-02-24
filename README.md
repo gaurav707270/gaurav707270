@@ -3,12 +3,19 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on React Projects
-- 🌱 I’m learning MERN Stack
-- 👨‍💻 All of my projects are available on GitHub
-- 💬 Ask me about HTML, CSS, JS
-- ⚡ Fun fact: I love building big projects
+## 🚀 About Me
+
+I'm Gaurav Kharate — a self-motivated Frontend Developer focused on building clean, responsive, and scalable web applications.
+
+💻 Strong foundation in:
+- HTML, CSS, Bootstrap
+- JavaScript (Core Concepts & Logic Building)
+- React.js (Currently Learning)
+
+🎯 Career Goal:
+To become a Full Stack Developer and work on large-scale real-world projects.
+
+I enjoy solving problems, building big projects, and improving my JavaScript logic step by step.
 
 ---
 
