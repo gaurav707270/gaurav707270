@@ -21,7 +21,7 @@ I enjoy solving problems, building big projects, and improving my JavaScript log
 
 ### 🛠️ Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </p>
 
 ---
