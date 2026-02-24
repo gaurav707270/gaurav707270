@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sachin Kharate</h1>
+<h3 align="center">Frontend Developer | React Learner | Future Full Stack Developer</h3>
 
-<!--
-**gaurav707270/gaurav707270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on React Projects
+- 🌱 I’m learning MERN Stack
+- 👨‍💻 All of my projects are available on GitHub
+- 💬 Ask me about HTML, CSS, JS
+- ⚡ Fun fact: I love building big projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
