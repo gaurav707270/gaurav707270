@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Kharate</h1>
+<h1 align="center">Hi 👋, I'm gaurav Kharate</h1>
 <h3 align="center">Frontend Developer | React Learner | Future Full Stack Developer</h3>
 
 ---
@@ -27,6 +27,7 @@ I enjoy solving problems, building big projects, and improving my JavaScript log
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
