@@ -39,3 +39,9 @@ I enjoy solving problems, building big projects, and improving my JavaScript log
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+
+
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO)
+![Forks](https://img.shields.io/github/forks/USERNAME/REPO)
+![Issues](https://img.shields.io/github/issues/USERNAME/REPO)
+![License](https://img.shields.io/github/license/USERNAME/REPO)
