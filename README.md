@@ -1,121 +1,106 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Gaurav+Kharate;⚡+Frontend+Developer;🔥+JavaScript+Expert+in+Progress;🚀+Future+Full+Stack+Engineer" />
-</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Kharate</h1>
+<h3 align="center">🚀 Frontend Developer | ⚛️ React Learner | 🌟 Future Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME%20TO%20MY%20WORLD&fontSize=40&color=0:00F7FF,100:8A2BE2&stroke=00F7FF"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Future+Full+Stack+Developer;Building+Cool+Web+Experiences" />
 </p>
 
 ---
 
-## 🌌 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript%20Lover-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React%20Learner-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-✨ Passionate about building **beautiful UI + powerful logic**
-
-🔥 Turning ideas into **real-world applications**
-
-🎯 Mission:
-
-> Become a **Full Stack Developer** & build scalable products
-
----
-
-## ⚡ Tech Stack (Animated Icons)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,git,github,vscode&perline=5" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259881-6c6b7d8b-7f2f-4a4c-9c69-01d3b4f91f49.gif" width="500" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live Animated)
+## 🌌 About Me
+
+✨ Passionate frontend developer who loves building interactive UI  
+⚡ Currently learning **React & Advanced JavaScript**  
+🎯 Goal: Become a **Full Stack Developer**  
+💡 Love solving real-world problems with code  
+🚀 Always learning new technologies  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
 ---
 
-## 🧠 Dev Energy
+## 📊 GitHub Stats
 
-```js id="9s2k10"
-class Developer {
-  constructor(name) {
-    this.name = name;
-    this.level = 1;
-  }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-  code() {
-    this.level++;
-    return "🔥 Level Up!";
-  }
-}
-
-const gaurav = new Developer("Gaurav");
-
-while(true){
-  gaurav.code();
-}
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🏆 Achievements Zone
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=15"/>
-</p>
+✨ Here are some of my best projects:
+
+🔹 **Project 1** – Amazing UI Project  
+🔗 https://github.com/YOUR_USERNAME/project1  
+
+🔹 **Project 2** – React App  
+🔗 https://github.com/YOUR_USERNAME/project2  
+
+🔹 **Project 3** – JavaScript Tool  
+🔗 https://github.com/YOUR_USERNAME/project3  
+
+---
+
+## 🏆 Achievements & Goals
+
+🏅 Learning React deeply  
+🚀 Building Full Stack Projects  
+🔥 Consistent GitHub Contributions  
+💼 Preparing for Developer Jobs  
+🌟 लक्ष्य: Top 1% Developer बनना  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ff0080?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0ff"/>
-</a>
-
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_LINK">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧬 Snake Contribution Animation
+## 🎨 Profile Views
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💫 Final Touch
+## 💡 Quote
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+  <i>"Code. Learn. Build. Repeat."</i>
 </p>
 
+---
+
 <p align="center">
-  ✨ Code • Create • Dominate ✨
+  ⭐ From <b>Gaurav Kharate</b> | Made with ❤️
 </p>
