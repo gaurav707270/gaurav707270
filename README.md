@@ -64,7 +64,7 @@
 
 🔹 **🌐 Modern Portfolio Website**  
 💻 Clean UI + Animations  
-🔗 https://github.com/YOUR_USERNAME/project1  
+🔗 https://[github.com/YOUR_USERNAME](http://localhost:5173/)/project1  
 
 🔹 **⚛️ React E-commerce App**  
 🛒 Cart + API + State Management  
