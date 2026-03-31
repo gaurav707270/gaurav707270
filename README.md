@@ -1,77 +1,84 @@
-<h1 align="center">✨ Hi 👋, I'm Gaurav Kharate ✨</h1>
-
-<h3 align="center">
-🚀 Frontend Developer | ⚡ JavaScript Lover | 🎯 Future Full Stack Engineer
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Gaurav+Kharate;⚡+Frontend+Developer;🔥+JavaScript+Expert+in+Progress;🚀+Future+Full+Stack+Engineer" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Apps;Passionate+Frontend+Developer;React+Learner;Future+Full+Stack+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME%20TO%20MY%20WORLD&fontSize=40&color=0:00F7FF,100:8A2BE2&stroke=00F7FF"/>
 </p>
 
 ---
 
-## 🌌 About Me
+## 🌌 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-✨ I'm a **self-driven developer** who loves crafting **beautiful & responsive UI**
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript%20Lover-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20Learner-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
-💻 Focused on:
+✨ Passionate about building **beautiful UI + powerful logic**
 
-* ⚡ Clean Code
-* 🎨 UI/UX Design
-* 🧠 Strong JavaScript Logic
-
-🚀 Current Journey:
-
-* 🌱 Learning **React & Backend**
-* 🔥 Building real-world projects
+🔥 Turning ideas into **real-world applications**
 
 🎯 Mission:
 
-> Become a **Full Stack Developer** & build impactful applications
+> Become a **Full Stack Developer** & build scalable products
 
 ---
 
-## ⚒️ Tech Arsenal
+## ⚡ Tech Stack (Animated Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,git,github,vscode&perline=5" />
 </p>
 
 ---
 
-## 📊 GitHub Power Stats
+## 📊 GitHub Stats (Live Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
----
-
-## 🏆 Achievements & Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Dev Energy
 
-🌟 Here are some of my best works:
+```js id="9s2k10"
+class Developer {
+  constructor(name) {
+    this.name = name;
+    this.level = 1;
+  }
 
-🔹 **Project 1** – Awesome description
-🔹 **Project 2** – Awesome description
-🔹 **Project 3** – Awesome description
+  code() {
+    this.level++;
+    return "🔥 Level Up!";
+  }
+}
+
+const gaurav = new Developer("Gaurav");
+
+while(true){
+  gaurav.code();
+}
+```
+
+---
+
+## 🏆 Achievements Zone
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
@@ -80,43 +87,35 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF0066?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-ff0080?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0ff"/>
 </a>
 
 </p>
 
 ---
 
-## 🧠 Dev Mindset
+## 🧬 Snake Contribution Animation
 
-```js
-const developer = {
-  name: "Gaurav",
-  skills: ["Frontend", "React", "JavaScript"],
-  mindset: "Keep Learning 🚀",
-};
-
-while(true){
-  developer.learn();
-  developer.build();
-  developer.levelUp();
-}
-```
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
+## 💫 Final Touch
+
 <p align="center">
-  💙 "Code. Create. Conquer." 💙
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F7FF&height=120&section=footer"/>
+  ✨ Code • Create • Dominate ✨
 </p>
