@@ -68,11 +68,11 @@
 
 🔹 **⚛️ React E-commerce App**  
 🛒 Cart + API + State Management  
-🔗 https://github.com/YOUR_USERNAME/project2  
+🔗 https://[github.com/YOUR_USERNAME](http://127.0.0.1:5500/home01.html)/project2  
 
 🔹 **🧠 JavaScript Tools Collection**  
 ⚡ Useful mini tools  
-🔗 https://github.com/YOUR_USERNAME/project3  
+🔗 https:/[/github.com/YOUR_USERNAME](https://saisankalpelevation.in/)/project3  
 
 </div>
 
