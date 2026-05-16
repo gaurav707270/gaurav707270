@@ -1,132 +1,80 @@
-<!-- 🌈 Animated Header -->
+<!-- ========================= 🌌 HEADER ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Gaurav%20Kharate&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00c6ff&text=Gaurav%20Kharate&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Learner%20|%20Future%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 </p>
 
-<!-- 🔥 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Frontend+Developer;⚛️+React+Learner;💻+JavaScript+Enthusiast;🌟+Future+Full+Stack+Developer;🔥+Building+Modern+Web+Apps" />
-</p>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- ========================= 🔥 TYPING ========================= -->
 
 <p align="center">
-✨ I build <b>modern, responsive & attractive UI</b><br>
-⚡ Currently learning <b>React & Advanced JavaScript</b><br>
-🎯 Goal: <b>Become Full Stack Developer</b><br>
-🔥 Passion: <b>Clean UI + Smooth UX</b><br>
-💡 Love experimenting with new tech
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Frontend+Developer;⚛️+React+Developer;💻+JavaScript+Enthusiast;🌈+UI%2FUX+Lover;🔥+Building+Modern+Web+Experiences;🚀+Future+Full+Stack+Engineer"/>
 </p>
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<!-- ========================= 🌟 PROFILE BADGES ========================= -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark"/>
-</p>
-
----
-
-<h2 align="center">🚀 Tools & Platforms</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind,nodejs,mongodb&theme=dark"/>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravKharate&show_icons=true&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=GauravKharate&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravKharate&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GauravKharate/GauravKharate/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-
-🔹 <b>🌐 Modern Portfolio</b><br>
-💻 Responsive UI + Animations<br>
-🔗 https://github.com/GauravKharate/portfolio  
-
-<br>
-
-🔹 <b>⚛️ React E-commerce App</b><br>
-🛒 Cart + API + State Management<br>
-🔗 https://github.com/GauravKharate/ecommerce  
-
-<br>
-
-🔹 <b>🧠 JavaScript Tools</b><br>
-⚡ Mini useful tools collection<br>
-🔗 https://github.com/GauravKharate/js-tools  
-
-</p>
-
----
-
-<h2 align="center">🏆 Achievements & Goals</h2>
-
-<p align="center">
-🏅 Learning React deeply<br>
-🔥 Daily coding practice<br>
-🚀 Building real-world projects<br>
-💼 Preparing for top tech jobs<br>
-🌟 Target: Top 1% Developer
-</p>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kharategaurav7072/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/GauravKharate?style=for-the-badge&logo=github&color=00c6ff"/>
   
-  <a href="https://github.com/GauravKharate">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://img.shields.io/github/stars/GauravKharate?style=for-the-badge&logo=github&color=ff0080"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=GauravKharate&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-<h2 align="center">👀 Profile Views</h2>
+# 👨‍💻 About Me
+
+<img align="right" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+✨ Passionate about creating **modern, responsive & interactive web apps**  
+
+⚛️ Currently learning **React.js & Advanced JavaScript**  
+
+🎯 Goal: Become a **Full Stack Developer**  
+
+🔥 Love building **beautiful UI & smooth UX**  
+
+💡 Always curious about new technologies  
+
+🚀 Turning ideas into real-world projects  
+
+📚 Daily learner & coding enthusiast  
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GauravKharate&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma&theme=dark"/>
+
 </p>
 
 ---
 
-<h2 align="center">💬 Quote</h2>
+# 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,nextjs&theme=dark"/>
+
 </p>
 
 ---
 
-<!-- 🌊 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-</p>
+# 🧠 Developer Mindset
+
+```js
+const gaurav = {
+  code: ["JavaScript", "React", "HTML", "CSS"],
+  askMeAbout: ["Frontend", "React", "UI Design"],
+  technologies: {
+    frontend: ["React", "Tailwind", "Bootstrap"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB"],
+  },
+  currentFocus: "Building Real World Projects",
+  funFact: "I turn coffee ☕ into code 💻"
+};
