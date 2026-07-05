@@ -23,7 +23,7 @@ This repository acts as the central orchestration hub for my professional open-s
 
 *   **Why it exists:** To bridge the gap between abstract commit history and real-world UI engineering layout presentation.
 *   **What problem it solves:** Translates baseline developer profiles into structural, clean, production-grade project ecosystems.
-*   **Target Target:** Engineering Teams, Product Managers, and Technical Recruiters sourcing Full Stack talent.
+*   **Target Audience:** Engineering Teams, Product Managers, and Technical Recruiters sourcing Full Stack talent.
 
 ---
 
@@ -40,7 +40,7 @@ This repository acts as the central orchestration hub for my professional open-s
 ## 🚀 Live Demo
 
 ### Dynamic Contribution Matrix
-The profiles visual landscape is automated using a daily chronological workflow to transform data metrics into an animated vector path:
+The profile's visual landscape is automated using a daily chronological workflow to transform data metrics into an animated vector path:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GauravKharate/GauravKharate/output/github-contribution-grid-snake.svg" alt="Snake Pipeline Rendering" width="85%" />
