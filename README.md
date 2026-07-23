@@ -1,71 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00c6ff&text=Gaurav%20Kharate&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Learner%20|%20Future%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
-</p>
+# 💫 About Me:
+# 👋 About Me<br><br>Hi, I'm **Gaurav Kharate** 👨‍💻<br><br>I'm a passionate **Full Stack Developer** from India who enjoys building modern, responsive, and user-friendly web applications. I love solving real-world problems through code and continuously learning new technologies.<br><br>## 🚀 What I'm Working On<br><br>* 🌱 Learning advanced **MERN Stack Development**<br>* 💻 Building full-stack web applications with **React.js**, **Node.js**, **Express.js**, and **MongoDB**<br>* 📚 Practicing **Data Structures & Algorithms**<br>* 🔥 Exploring **Next.js**, **Redux Toolkit**, and backend architecture<br><br>## 💻 Tech Stack<br><br>### Frontend<br><br>* HTML5<br>* CSS3<br>* Bootstrap<br>* Tailwind CSS<br>* JavaScript (ES6+)<br>* React.js<br>* Next.js<br>* Redux Toolkit<br><br>### Backend<br><br>* Node.js<br>* Express.js<br>* MongoDB<br>* REST APIs<br>* PHP<br>* Laravel<br><br>### Programming Languages<br><br>* JavaScript<br>* Python<br>* C<br><br>### Tools & Technologies<br><br>* Git<br>* GitHub<br>* VS Code<br>* Postman<br>* Vite<br>* npm<br><br>## 📌 Featured Projects<br><br>* 🛒 **ShopVerse** – MERN E-Commerce Platform<br>* 🏦 **Core Banking Management System**<br>* 📄 **Resume Ranker System**<br>* 📝 **TextForge – Smart Text Utils App**<br>* 🌐 **Personal Portfolio Website**<br><br>## 🎯 Goals<br><br>* Become a skilled **Full Stack Developer**<br>* Contribute to Open Source Projects<br>* Build scalable and high-performance web applications<br>* Continuously improve problem-solving skills<br><br>## ⚡ Fun Fact<br><br>> "Every day I write code to become better than yesterday."<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Frontend+Developer;⚛️+React+Developer;💻+JavaScript+Enthusiast;🌈+UI%2FUX+Lover;🔥+Building+Modern+Web+Experiences;🚀+Future+Full+Stack+Engineer"/>
-</p>
 
-<p align="center">
-  <a href="https://github.com/GauravKharate"><img src="https://img.shields.io/github/followers/GauravKharate?style=for-the-badge&logo=github&color=00c6ff&label=Followers" alt="GitHub Followers"/></a>
-  <a href="https://github.com/GauravKharate"><img src="https://img.shields.io/github/stars/GauravKharate?style=for-the-badge&logo=github&color=ff0080&label=Total%20Stars" alt="GitHub Stars"/></a>
-  <img src="https://komarev.com/ghpvc/?username=GauravKharate&style=for-the-badge&color=blueviolet&label=Profile%20Views" alt="Profile Views"/>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.kharate_gaurav_.7072) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kharategaurav7072) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sachinkharate6558) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sachin kharate) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinkharate2004@gmail.com) 
 
----
-
-## 🎯 Executive Overview
-
-> **Welcome to my engineering ecosystem.** This repository serves as a live portfolio hub translating raw code commits into interactive architectural layouts. Engineered explicitly for tech recruiters, engineering managers, and open-source collaborators to assess my capabilities within a 30-second scan.
-
-* **⚡ Core Mandate:** Bridging the gap between structural data logic and dynamic frontend interfaces.
-* **🛠️ Problem Solved:** Eliminates static developer summaries in favor of a responsive, pipeline-driven portfolio blueprint.
-* **👥 Intended Audience:** Engineering teams looking to scale their UI/UX and full-stack runtime layers.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gaurav707270&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=gaurav707270&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gaurav707270&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=gaurav707270&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Telemetry & Key Systems
-
-| Layout Component | Platform Integration | Target Metrics |
-| :--- | :--- | :--- |
-| **Interactive Profiler** | `readme-typing-svg` Payload API | Real-time specialization mapping & focus dispatching |
-| **Dynamic Analytics** | `komarev-ghpvc` Real-time Tracking | Captures organic reach, impressions, and pipeline activity |
-| **Automation Pipeline** | `github-contribution-grid-snake` Action | Visual validation of active iteration loops & deployment consistency |
-
----
-
-## 🚀 Live Pipeline Demonstration
-
-### Dynamic Contribution Architecture
-My workflow commitment patterns are programmatically rendered daily via an automated background compilation matrix, creating a live layout trail of code activity:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GauravKharate/GauravKharate/output/github-contribution-grid-snake.svg" alt="Snake Activity Pipeline" width="85%" />
-</p>
-
----
-
-## 🛠️ Production Tech Stack
-
-### 🎨 User Interface & Presentation Layers
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&theme=dark" alt="Frontend Matrix Layer"/>
-</p>
-
-### ⚙️ Systems Engineering & Data Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,figma&theme=dark" alt="Systems Infrastructure Layer"/>
-</p>
-
----
-
-## 🧬 System Topology Diagram
-
-```mermaid
-graph TD
-    A[Visitor Client / Tech Recruiter] -->|HTTPS Requests| B(GitHub Core Interface)
-    B --> C{Component Distribution Node}
-    C -->|Dynamic Rendering| D[Capsule Visual Header Engine]
-    C -->|Asynchronous Streams| E[Typing SVG Engine]
-    C -->|Telemetry Tracking| F[KPV Analytical Matrix]
-    C -->|Automated CRON Actions| G[Contribution Snake Vector Target]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
