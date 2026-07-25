@@ -1,295 +1,1100 @@
-<!-- ========================= HERO ========================= -->
-
-<div align="center">
 
 # Gaurav Kharate
 
-### Full Stack Developer • MERN Stack • Software Engineer
-
-Building scalable web applications with modern JavaScript technologies while continuously improving problem-solving skills through Data Structures & Algorithms.
-
-<p>
-
-<a href="https://github.com/gaurav707270">
-<img src="https://img.shields.io/badge/GitHub-gaurav707270-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/kharategaurav7072">
-<img src="https://img.shields.io/badge/LinkedIn-Gaurav_Kharate-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sachinkharate2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/_.kharate_gaurav_.7072">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@sachinkharate6558">
-<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=gaurav707270&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-
-</div>
-
----
-
-# About Me
-
-<table>
-<tr>
-<td width="60%">
-
-### Professional Summary
-
-I'm a passionate **Full Stack Developer** focused on building responsive, scalable and user-centric web applications using the **MERN Stack**.
-
-I enjoy transforming ideas into real-world products while continuously improving my software engineering skills through DSA, modern frameworks and backend architecture.
-
-### Highlights
-
-- Full Stack MERN Developer
-- REST API Development
-- MongoDB & Express
-- React & Next.js Enthusiast
-- Data Structures & Algorithms
-- Open Source Learner
-- UI/UX Focused Development
-- Continuous Learning Mindset
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav707270&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,php,html,css"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,angular"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify"/>
-
-</p>
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>🏦 Banking ERP System</b></summary>
-
-### Features
-
-- Multi Branch Management
-- Employee Management
-- Customer Management
-- Secure Authentication
-- Dashboard Analytics
-- Role Based Access
-- Transaction Monitoring
-- REST APIs
-- MongoDB Database
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB • Bootstrap
-
-</details>
-
-<details>
-<summary><b>🛒 ShopVerse E-Commerce</b></summary>
-
-### Features
-
-- Product Listing
-- Product Search
-- Shopping Cart
-- User Authentication
-- Responsive Design
-- API Integration
-
-**Tech Stack**
-
-React • Redux Toolkit • Node.js • MongoDB
-
-</details>
-
-<details>
-<summary><b>📄 Resume Ranker System</b></summary>
-
-### Features
-
-- Resume Analysis
-- ATS Score
-- Keyword Matching
-- Candidate Ranking
-
-**Tech Stack**
-
-Python • Flask • Machine Learning
-
-</details>
-
-<details>
-<summary><b>🌐 Portfolio Website</b></summary>
-
-### Features
-
-- Responsive UI
-- Projects Showcase
-- Contact Form
-- Modern Animations
-
-**Tech Stack**
-
-React • Tailwind CSS • Vercel
-
-</details>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav707270&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav707270&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gaurav707270&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav707270&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav707270&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gaurav707270/gaurav707270/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
-
+> Premium GitHub README Starter
+
+This is a starter for a FAANG-style profile README.
+
+## Hero
+- Capsule Render banner
+- Typing SVG
+- Social badges
+
+## About
+Full Stack Developer focused on MERN Stack, DSA, and scalable web applications.
+
+## Tech Stack
+- HTML, CSS, JavaScript, TypeScript
+- React, Next.js
+- Node.js, Express
+- MongoDB, MySQL
+- Git, GitHub, Docker
+
+## Widgets
+- GitHub Stats
+- Streak Stats
+- Top Languages
+- Activity Graph
+- Trophies
+- Snake Animation
+- Dev Quote
+- WakaTime
+- Spotify
+- LeetCode
+- Holopin
+
+## Projects
+- Banking ERP
+- ShopVerse
+- Resume Ranker
+- Portfolio
+
+## Current Focus
 ```yaml
 Learning:
-  - Advanced MERN Stack
+  - Advanced MERN
   - System Design
-  - TypeScript
-  - Next.js
-  - Backend Architecture
-  - Data Structures & Algorithms
-
 Building:
   - Banking ERP
-  - Full Stack SaaS Applications
-  - REST APIs
-  - Modern Dashboards
-
-Exploring:
-  - Docker
-  - AWS
-  - CI/CD
-  - Kubernetes
-  - AI Integration
-
 Open_To:
-  - Full Time Opportunities
-  - Software Engineering Roles
-  - Open Source Contributions
-  - Freelance Projects
-  - Technical Collaborations
+  - Software Engineer
 ```
 
----
-
-# Connect
-
-<div align="center">
-
-| Platform | Link |
-|-----------|------|
-| 📧 Gmail | https://mailto:sachinkharate2004@gmail.com |
-| 💼 LinkedIn | https://linkedin.com/in/kharategaurav7072 |
-| 💻 GitHub | https://github.com/gaurav707270 |
-| 📸 Instagram | https://instagram.com/_.kharate_gaurav_.7072 |
-| ▶️ YouTube | https://youtube.com/@sachinkharate6558 |
-
-</div>
-
----
-
-<div align="center">
-
-### *Building scalable software, solving meaningful problems, and continuously growing as a Software Engineer.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
-
-</div>
+## Connect
+- GitHub: https://github.com/gaurav707270
+- LinkedIn: https://linkedin.com/in/kharategaurav7072
+- Email: mailto:sachinkharate2004@gmail.com
+<!-- Premium section placeholder line 57 -->
+<!-- Premium section placeholder line 58 -->
+<!-- Premium section placeholder line 59 -->
+<!-- Premium section placeholder line 60 -->
+<!-- Premium section placeholder line 61 -->
+<!-- Premium section placeholder line 62 -->
+<!-- Premium section placeholder line 63 -->
+<!-- Premium section placeholder line 64 -->
+<!-- Premium section placeholder line 65 -->
+<!-- Premium section placeholder line 66 -->
+<!-- Premium section placeholder line 67 -->
+<!-- Premium section placeholder line 68 -->
+<!-- Premium section placeholder line 69 -->
+<!-- Premium section placeholder line 70 -->
+<!-- Premium section placeholder line 71 -->
+<!-- Premium section placeholder line 72 -->
+<!-- Premium section placeholder line 73 -->
+<!-- Premium section placeholder line 74 -->
+<!-- Premium section placeholder line 75 -->
+<!-- Premium section placeholder line 76 -->
+<!-- Premium section placeholder line 77 -->
+<!-- Premium section placeholder line 78 -->
+<!-- Premium section placeholder line 79 -->
+<!-- Premium section placeholder line 80 -->
+<!-- Premium section placeholder line 81 -->
+<!-- Premium section placeholder line 82 -->
+<!-- Premium section placeholder line 83 -->
+<!-- Premium section placeholder line 84 -->
+<!-- Premium section placeholder line 85 -->
+<!-- Premium section placeholder line 86 -->
+<!-- Premium section placeholder line 87 -->
+<!-- Premium section placeholder line 88 -->
+<!-- Premium section placeholder line 89 -->
+<!-- Premium section placeholder line 90 -->
+<!-- Premium section placeholder line 91 -->
+<!-- Premium section placeholder line 92 -->
+<!-- Premium section placeholder line 93 -->
+<!-- Premium section placeholder line 94 -->
+<!-- Premium section placeholder line 95 -->
+<!-- Premium section placeholder line 96 -->
+<!-- Premium section placeholder line 97 -->
+<!-- Premium section placeholder line 98 -->
+<!-- Premium section placeholder line 99 -->
+<!-- Premium section placeholder line 100 -->
+<!-- Premium section placeholder line 101 -->
+<!-- Premium section placeholder line 102 -->
+<!-- Premium section placeholder line 103 -->
+<!-- Premium section placeholder line 104 -->
+<!-- Premium section placeholder line 105 -->
+<!-- Premium section placeholder line 106 -->
+<!-- Premium section placeholder line 107 -->
+<!-- Premium section placeholder line 108 -->
+<!-- Premium section placeholder line 109 -->
+<!-- Premium section placeholder line 110 -->
+<!-- Premium section placeholder line 111 -->
+<!-- Premium section placeholder line 112 -->
+<!-- Premium section placeholder line 113 -->
+<!-- Premium section placeholder line 114 -->
+<!-- Premium section placeholder line 115 -->
+<!-- Premium section placeholder line 116 -->
+<!-- Premium section placeholder line 117 -->
+<!-- Premium section placeholder line 118 -->
+<!-- Premium section placeholder line 119 -->
+<!-- Premium section placeholder line 120 -->
+<!-- Premium section placeholder line 121 -->
+<!-- Premium section placeholder line 122 -->
+<!-- Premium section placeholder line 123 -->
+<!-- Premium section placeholder line 124 -->
+<!-- Premium section placeholder line 125 -->
+<!-- Premium section placeholder line 126 -->
+<!-- Premium section placeholder line 127 -->
+<!-- Premium section placeholder line 128 -->
+<!-- Premium section placeholder line 129 -->
+<!-- Premium section placeholder line 130 -->
+<!-- Premium section placeholder line 131 -->
+<!-- Premium section placeholder line 132 -->
+<!-- Premium section placeholder line 133 -->
+<!-- Premium section placeholder line 134 -->
+<!-- Premium section placeholder line 135 -->
+<!-- Premium section placeholder line 136 -->
+<!-- Premium section placeholder line 137 -->
+<!-- Premium section placeholder line 138 -->
+<!-- Premium section placeholder line 139 -->
+<!-- Premium section placeholder line 140 -->
+<!-- Premium section placeholder line 141 -->
+<!-- Premium section placeholder line 142 -->
+<!-- Premium section placeholder line 143 -->
+<!-- Premium section placeholder line 144 -->
+<!-- Premium section placeholder line 145 -->
+<!-- Premium section placeholder line 146 -->
+<!-- Premium section placeholder line 147 -->
+<!-- Premium section placeholder line 148 -->
+<!-- Premium section placeholder line 149 -->
+<!-- Premium section placeholder line 150 -->
+<!-- Premium section placeholder line 151 -->
+<!-- Premium section placeholder line 152 -->
+<!-- Premium section placeholder line 153 -->
+<!-- Premium section placeholder line 154 -->
+<!-- Premium section placeholder line 155 -->
+<!-- Premium section placeholder line 156 -->
+<!-- Premium section placeholder line 157 -->
+<!-- Premium section placeholder line 158 -->
+<!-- Premium section placeholder line 159 -->
+<!-- Premium section placeholder line 160 -->
+<!-- Premium section placeholder line 161 -->
+<!-- Premium section placeholder line 162 -->
+<!-- Premium section placeholder line 163 -->
+<!-- Premium section placeholder line 164 -->
+<!-- Premium section placeholder line 165 -->
+<!-- Premium section placeholder line 166 -->
+<!-- Premium section placeholder line 167 -->
+<!-- Premium section placeholder line 168 -->
+<!-- Premium section placeholder line 169 -->
+<!-- Premium section placeholder line 170 -->
+<!-- Premium section placeholder line 171 -->
+<!-- Premium section placeholder line 172 -->
+<!-- Premium section placeholder line 173 -->
+<!-- Premium section placeholder line 174 -->
+<!-- Premium section placeholder line 175 -->
+<!-- Premium section placeholder line 176 -->
+<!-- Premium section placeholder line 177 -->
+<!-- Premium section placeholder line 178 -->
+<!-- Premium section placeholder line 179 -->
+<!-- Premium section placeholder line 180 -->
+<!-- Premium section placeholder line 181 -->
+<!-- Premium section placeholder line 182 -->
+<!-- Premium section placeholder line 183 -->
+<!-- Premium section placeholder line 184 -->
+<!-- Premium section placeholder line 185 -->
+<!-- Premium section placeholder line 186 -->
+<!-- Premium section placeholder line 187 -->
+<!-- Premium section placeholder line 188 -->
+<!-- Premium section placeholder line 189 -->
+<!-- Premium section placeholder line 190 -->
+<!-- Premium section placeholder line 191 -->
+<!-- Premium section placeholder line 192 -->
+<!-- Premium section placeholder line 193 -->
+<!-- Premium section placeholder line 194 -->
+<!-- Premium section placeholder line 195 -->
+<!-- Premium section placeholder line 196 -->
+<!-- Premium section placeholder line 197 -->
+<!-- Premium section placeholder line 198 -->
+<!-- Premium section placeholder line 199 -->
+<!-- Premium section placeholder line 200 -->
+<!-- Premium section placeholder line 201 -->
+<!-- Premium section placeholder line 202 -->
+<!-- Premium section placeholder line 203 -->
+<!-- Premium section placeholder line 204 -->
+<!-- Premium section placeholder line 205 -->
+<!-- Premium section placeholder line 206 -->
+<!-- Premium section placeholder line 207 -->
+<!-- Premium section placeholder line 208 -->
+<!-- Premium section placeholder line 209 -->
+<!-- Premium section placeholder line 210 -->
+<!-- Premium section placeholder line 211 -->
+<!-- Premium section placeholder line 212 -->
+<!-- Premium section placeholder line 213 -->
+<!-- Premium section placeholder line 214 -->
+<!-- Premium section placeholder line 215 -->
+<!-- Premium section placeholder line 216 -->
+<!-- Premium section placeholder line 217 -->
+<!-- Premium section placeholder line 218 -->
+<!-- Premium section placeholder line 219 -->
+<!-- Premium section placeholder line 220 -->
+<!-- Premium section placeholder line 221 -->
+<!-- Premium section placeholder line 222 -->
+<!-- Premium section placeholder line 223 -->
+<!-- Premium section placeholder line 224 -->
+<!-- Premium section placeholder line 225 -->
+<!-- Premium section placeholder line 226 -->
+<!-- Premium section placeholder line 227 -->
+<!-- Premium section placeholder line 228 -->
+<!-- Premium section placeholder line 229 -->
+<!-- Premium section placeholder line 230 -->
+<!-- Premium section placeholder line 231 -->
+<!-- Premium section placeholder line 232 -->
+<!-- Premium section placeholder line 233 -->
+<!-- Premium section placeholder line 234 -->
+<!-- Premium section placeholder line 235 -->
+<!-- Premium section placeholder line 236 -->
+<!-- Premium section placeholder line 237 -->
+<!-- Premium section placeholder line 238 -->
+<!-- Premium section placeholder line 239 -->
+<!-- Premium section placeholder line 240 -->
+<!-- Premium section placeholder line 241 -->
+<!-- Premium section placeholder line 242 -->
+<!-- Premium section placeholder line 243 -->
+<!-- Premium section placeholder line 244 -->
+<!-- Premium section placeholder line 245 -->
+<!-- Premium section placeholder line 246 -->
+<!-- Premium section placeholder line 247 -->
+<!-- Premium section placeholder line 248 -->
+<!-- Premium section placeholder line 249 -->
+<!-- Premium section placeholder line 250 -->
+<!-- Premium section placeholder line 251 -->
+<!-- Premium section placeholder line 252 -->
+<!-- Premium section placeholder line 253 -->
+<!-- Premium section placeholder line 254 -->
+<!-- Premium section placeholder line 255 -->
+<!-- Premium section placeholder line 256 -->
+<!-- Premium section placeholder line 257 -->
+<!-- Premium section placeholder line 258 -->
+<!-- Premium section placeholder line 259 -->
+<!-- Premium section placeholder line 260 -->
+<!-- Premium section placeholder line 261 -->
+<!-- Premium section placeholder line 262 -->
+<!-- Premium section placeholder line 263 -->
+<!-- Premium section placeholder line 264 -->
+<!-- Premium section placeholder line 265 -->
+<!-- Premium section placeholder line 266 -->
+<!-- Premium section placeholder line 267 -->
+<!-- Premium section placeholder line 268 -->
+<!-- Premium section placeholder line 269 -->
+<!-- Premium section placeholder line 270 -->
+<!-- Premium section placeholder line 271 -->
+<!-- Premium section placeholder line 272 -->
+<!-- Premium section placeholder line 273 -->
+<!-- Premium section placeholder line 274 -->
+<!-- Premium section placeholder line 275 -->
+<!-- Premium section placeholder line 276 -->
+<!-- Premium section placeholder line 277 -->
+<!-- Premium section placeholder line 278 -->
+<!-- Premium section placeholder line 279 -->
+<!-- Premium section placeholder line 280 -->
+<!-- Premium section placeholder line 281 -->
+<!-- Premium section placeholder line 282 -->
+<!-- Premium section placeholder line 283 -->
+<!-- Premium section placeholder line 284 -->
+<!-- Premium section placeholder line 285 -->
+<!-- Premium section placeholder line 286 -->
+<!-- Premium section placeholder line 287 -->
+<!-- Premium section placeholder line 288 -->
+<!-- Premium section placeholder line 289 -->
+<!-- Premium section placeholder line 290 -->
+<!-- Premium section placeholder line 291 -->
+<!-- Premium section placeholder line 292 -->
+<!-- Premium section placeholder line 293 -->
+<!-- Premium section placeholder line 294 -->
+<!-- Premium section placeholder line 295 -->
+<!-- Premium section placeholder line 296 -->
+<!-- Premium section placeholder line 297 -->
+<!-- Premium section placeholder line 298 -->
+<!-- Premium section placeholder line 299 -->
+<!-- Premium section placeholder line 300 -->
+<!-- Premium section placeholder line 301 -->
+<!-- Premium section placeholder line 302 -->
+<!-- Premium section placeholder line 303 -->
+<!-- Premium section placeholder line 304 -->
+<!-- Premium section placeholder line 305 -->
+<!-- Premium section placeholder line 306 -->
+<!-- Premium section placeholder line 307 -->
+<!-- Premium section placeholder line 308 -->
+<!-- Premium section placeholder line 309 -->
+<!-- Premium section placeholder line 310 -->
+<!-- Premium section placeholder line 311 -->
+<!-- Premium section placeholder line 312 -->
+<!-- Premium section placeholder line 313 -->
+<!-- Premium section placeholder line 314 -->
+<!-- Premium section placeholder line 315 -->
+<!-- Premium section placeholder line 316 -->
+<!-- Premium section placeholder line 317 -->
+<!-- Premium section placeholder line 318 -->
+<!-- Premium section placeholder line 319 -->
+<!-- Premium section placeholder line 320 -->
+<!-- Premium section placeholder line 321 -->
+<!-- Premium section placeholder line 322 -->
+<!-- Premium section placeholder line 323 -->
+<!-- Premium section placeholder line 324 -->
+<!-- Premium section placeholder line 325 -->
+<!-- Premium section placeholder line 326 -->
+<!-- Premium section placeholder line 327 -->
+<!-- Premium section placeholder line 328 -->
+<!-- Premium section placeholder line 329 -->
+<!-- Premium section placeholder line 330 -->
+<!-- Premium section placeholder line 331 -->
+<!-- Premium section placeholder line 332 -->
+<!-- Premium section placeholder line 333 -->
+<!-- Premium section placeholder line 334 -->
+<!-- Premium section placeholder line 335 -->
+<!-- Premium section placeholder line 336 -->
+<!-- Premium section placeholder line 337 -->
+<!-- Premium section placeholder line 338 -->
+<!-- Premium section placeholder line 339 -->
+<!-- Premium section placeholder line 340 -->
+<!-- Premium section placeholder line 341 -->
+<!-- Premium section placeholder line 342 -->
+<!-- Premium section placeholder line 343 -->
+<!-- Premium section placeholder line 344 -->
+<!-- Premium section placeholder line 345 -->
+<!-- Premium section placeholder line 346 -->
+<!-- Premium section placeholder line 347 -->
+<!-- Premium section placeholder line 348 -->
+<!-- Premium section placeholder line 349 -->
+<!-- Premium section placeholder line 350 -->
+<!-- Premium section placeholder line 351 -->
+<!-- Premium section placeholder line 352 -->
+<!-- Premium section placeholder line 353 -->
+<!-- Premium section placeholder line 354 -->
+<!-- Premium section placeholder line 355 -->
+<!-- Premium section placeholder line 356 -->
+<!-- Premium section placeholder line 357 -->
+<!-- Premium section placeholder line 358 -->
+<!-- Premium section placeholder line 359 -->
+<!-- Premium section placeholder line 360 -->
+<!-- Premium section placeholder line 361 -->
+<!-- Premium section placeholder line 362 -->
+<!-- Premium section placeholder line 363 -->
+<!-- Premium section placeholder line 364 -->
+<!-- Premium section placeholder line 365 -->
+<!-- Premium section placeholder line 366 -->
+<!-- Premium section placeholder line 367 -->
+<!-- Premium section placeholder line 368 -->
+<!-- Premium section placeholder line 369 -->
+<!-- Premium section placeholder line 370 -->
+<!-- Premium section placeholder line 371 -->
+<!-- Premium section placeholder line 372 -->
+<!-- Premium section placeholder line 373 -->
+<!-- Premium section placeholder line 374 -->
+<!-- Premium section placeholder line 375 -->
+<!-- Premium section placeholder line 376 -->
+<!-- Premium section placeholder line 377 -->
+<!-- Premium section placeholder line 378 -->
+<!-- Premium section placeholder line 379 -->
+<!-- Premium section placeholder line 380 -->
+<!-- Premium section placeholder line 381 -->
+<!-- Premium section placeholder line 382 -->
+<!-- Premium section placeholder line 383 -->
+<!-- Premium section placeholder line 384 -->
+<!-- Premium section placeholder line 385 -->
+<!-- Premium section placeholder line 386 -->
+<!-- Premium section placeholder line 387 -->
+<!-- Premium section placeholder line 388 -->
+<!-- Premium section placeholder line 389 -->
+<!-- Premium section placeholder line 390 -->
+<!-- Premium section placeholder line 391 -->
+<!-- Premium section placeholder line 392 -->
+<!-- Premium section placeholder line 393 -->
+<!-- Premium section placeholder line 394 -->
+<!-- Premium section placeholder line 395 -->
+<!-- Premium section placeholder line 396 -->
+<!-- Premium section placeholder line 397 -->
+<!-- Premium section placeholder line 398 -->
+<!-- Premium section placeholder line 399 -->
+<!-- Premium section placeholder line 400 -->
+<!-- Premium section placeholder line 401 -->
+<!-- Premium section placeholder line 402 -->
+<!-- Premium section placeholder line 403 -->
+<!-- Premium section placeholder line 404 -->
+<!-- Premium section placeholder line 405 -->
+<!-- Premium section placeholder line 406 -->
+<!-- Premium section placeholder line 407 -->
+<!-- Premium section placeholder line 408 -->
+<!-- Premium section placeholder line 409 -->
+<!-- Premium section placeholder line 410 -->
+<!-- Premium section placeholder line 411 -->
+<!-- Premium section placeholder line 412 -->
+<!-- Premium section placeholder line 413 -->
+<!-- Premium section placeholder line 414 -->
+<!-- Premium section placeholder line 415 -->
+<!-- Premium section placeholder line 416 -->
+<!-- Premium section placeholder line 417 -->
+<!-- Premium section placeholder line 418 -->
+<!-- Premium section placeholder line 419 -->
+<!-- Premium section placeholder line 420 -->
+<!-- Premium section placeholder line 421 -->
+<!-- Premium section placeholder line 422 -->
+<!-- Premium section placeholder line 423 -->
+<!-- Premium section placeholder line 424 -->
+<!-- Premium section placeholder line 425 -->
+<!-- Premium section placeholder line 426 -->
+<!-- Premium section placeholder line 427 -->
+<!-- Premium section placeholder line 428 -->
+<!-- Premium section placeholder line 429 -->
+<!-- Premium section placeholder line 430 -->
+<!-- Premium section placeholder line 431 -->
+<!-- Premium section placeholder line 432 -->
+<!-- Premium section placeholder line 433 -->
+<!-- Premium section placeholder line 434 -->
+<!-- Premium section placeholder line 435 -->
+<!-- Premium section placeholder line 436 -->
+<!-- Premium section placeholder line 437 -->
+<!-- Premium section placeholder line 438 -->
+<!-- Premium section placeholder line 439 -->
+<!-- Premium section placeholder line 440 -->
+<!-- Premium section placeholder line 441 -->
+<!-- Premium section placeholder line 442 -->
+<!-- Premium section placeholder line 443 -->
+<!-- Premium section placeholder line 444 -->
+<!-- Premium section placeholder line 445 -->
+<!-- Premium section placeholder line 446 -->
+<!-- Premium section placeholder line 447 -->
+<!-- Premium section placeholder line 448 -->
+<!-- Premium section placeholder line 449 -->
+<!-- Premium section placeholder line 450 -->
+<!-- Premium section placeholder line 451 -->
+<!-- Premium section placeholder line 452 -->
+<!-- Premium section placeholder line 453 -->
+<!-- Premium section placeholder line 454 -->
+<!-- Premium section placeholder line 455 -->
+<!-- Premium section placeholder line 456 -->
+<!-- Premium section placeholder line 457 -->
+<!-- Premium section placeholder line 458 -->
+<!-- Premium section placeholder line 459 -->
+<!-- Premium section placeholder line 460 -->
+<!-- Premium section placeholder line 461 -->
+<!-- Premium section placeholder line 462 -->
+<!-- Premium section placeholder line 463 -->
+<!-- Premium section placeholder line 464 -->
+<!-- Premium section placeholder line 465 -->
+<!-- Premium section placeholder line 466 -->
+<!-- Premium section placeholder line 467 -->
+<!-- Premium section placeholder line 468 -->
+<!-- Premium section placeholder line 469 -->
+<!-- Premium section placeholder line 470 -->
+<!-- Premium section placeholder line 471 -->
+<!-- Premium section placeholder line 472 -->
+<!-- Premium section placeholder line 473 -->
+<!-- Premium section placeholder line 474 -->
+<!-- Premium section placeholder line 475 -->
+<!-- Premium section placeholder line 476 -->
+<!-- Premium section placeholder line 477 -->
+<!-- Premium section placeholder line 478 -->
+<!-- Premium section placeholder line 479 -->
+<!-- Premium section placeholder line 480 -->
+<!-- Premium section placeholder line 481 -->
+<!-- Premium section placeholder line 482 -->
+<!-- Premium section placeholder line 483 -->
+<!-- Premium section placeholder line 484 -->
+<!-- Premium section placeholder line 485 -->
+<!-- Premium section placeholder line 486 -->
+<!-- Premium section placeholder line 487 -->
+<!-- Premium section placeholder line 488 -->
+<!-- Premium section placeholder line 489 -->
+<!-- Premium section placeholder line 490 -->
+<!-- Premium section placeholder line 491 -->
+<!-- Premium section placeholder line 492 -->
+<!-- Premium section placeholder line 493 -->
+<!-- Premium section placeholder line 494 -->
+<!-- Premium section placeholder line 495 -->
+<!-- Premium section placeholder line 496 -->
+<!-- Premium section placeholder line 497 -->
+<!-- Premium section placeholder line 498 -->
+<!-- Premium section placeholder line 499 -->
+<!-- Premium section placeholder line 500 -->
+<!-- Premium section placeholder line 501 -->
+<!-- Premium section placeholder line 502 -->
+<!-- Premium section placeholder line 503 -->
+<!-- Premium section placeholder line 504 -->
+<!-- Premium section placeholder line 505 -->
+<!-- Premium section placeholder line 506 -->
+<!-- Premium section placeholder line 507 -->
+<!-- Premium section placeholder line 508 -->
+<!-- Premium section placeholder line 509 -->
+<!-- Premium section placeholder line 510 -->
+<!-- Premium section placeholder line 511 -->
+<!-- Premium section placeholder line 512 -->
+<!-- Premium section placeholder line 513 -->
+<!-- Premium section placeholder line 514 -->
+<!-- Premium section placeholder line 515 -->
+<!-- Premium section placeholder line 516 -->
+<!-- Premium section placeholder line 517 -->
+<!-- Premium section placeholder line 518 -->
+<!-- Premium section placeholder line 519 -->
+<!-- Premium section placeholder line 520 -->
+<!-- Premium section placeholder line 521 -->
+<!-- Premium section placeholder line 522 -->
+<!-- Premium section placeholder line 523 -->
+<!-- Premium section placeholder line 524 -->
+<!-- Premium section placeholder line 525 -->
+<!-- Premium section placeholder line 526 -->
+<!-- Premium section placeholder line 527 -->
+<!-- Premium section placeholder line 528 -->
+<!-- Premium section placeholder line 529 -->
+<!-- Premium section placeholder line 530 -->
+<!-- Premium section placeholder line 531 -->
+<!-- Premium section placeholder line 532 -->
+<!-- Premium section placeholder line 533 -->
+<!-- Premium section placeholder line 534 -->
+<!-- Premium section placeholder line 535 -->
+<!-- Premium section placeholder line 536 -->
+<!-- Premium section placeholder line 537 -->
+<!-- Premium section placeholder line 538 -->
+<!-- Premium section placeholder line 539 -->
+<!-- Premium section placeholder line 540 -->
+<!-- Premium section placeholder line 541 -->
+<!-- Premium section placeholder line 542 -->
+<!-- Premium section placeholder line 543 -->
+<!-- Premium section placeholder line 544 -->
+<!-- Premium section placeholder line 545 -->
+<!-- Premium section placeholder line 546 -->
+<!-- Premium section placeholder line 547 -->
+<!-- Premium section placeholder line 548 -->
+<!-- Premium section placeholder line 549 -->
+<!-- Premium section placeholder line 550 -->
+<!-- Premium section placeholder line 551 -->
+<!-- Premium section placeholder line 552 -->
+<!-- Premium section placeholder line 553 -->
+<!-- Premium section placeholder line 554 -->
+<!-- Premium section placeholder line 555 -->
+<!-- Premium section placeholder line 556 -->
+<!-- Premium section placeholder line 557 -->
+<!-- Premium section placeholder line 558 -->
+<!-- Premium section placeholder line 559 -->
+<!-- Premium section placeholder line 560 -->
+<!-- Premium section placeholder line 561 -->
+<!-- Premium section placeholder line 562 -->
+<!-- Premium section placeholder line 563 -->
+<!-- Premium section placeholder line 564 -->
+<!-- Premium section placeholder line 565 -->
+<!-- Premium section placeholder line 566 -->
+<!-- Premium section placeholder line 567 -->
+<!-- Premium section placeholder line 568 -->
+<!-- Premium section placeholder line 569 -->
+<!-- Premium section placeholder line 570 -->
+<!-- Premium section placeholder line 571 -->
+<!-- Premium section placeholder line 572 -->
+<!-- Premium section placeholder line 573 -->
+<!-- Premium section placeholder line 574 -->
+<!-- Premium section placeholder line 575 -->
+<!-- Premium section placeholder line 576 -->
+<!-- Premium section placeholder line 577 -->
+<!-- Premium section placeholder line 578 -->
+<!-- Premium section placeholder line 579 -->
+<!-- Premium section placeholder line 580 -->
+<!-- Premium section placeholder line 581 -->
+<!-- Premium section placeholder line 582 -->
+<!-- Premium section placeholder line 583 -->
+<!-- Premium section placeholder line 584 -->
+<!-- Premium section placeholder line 585 -->
+<!-- Premium section placeholder line 586 -->
+<!-- Premium section placeholder line 587 -->
+<!-- Premium section placeholder line 588 -->
+<!-- Premium section placeholder line 589 -->
+<!-- Premium section placeholder line 590 -->
+<!-- Premium section placeholder line 591 -->
+<!-- Premium section placeholder line 592 -->
+<!-- Premium section placeholder line 593 -->
+<!-- Premium section placeholder line 594 -->
+<!-- Premium section placeholder line 595 -->
+<!-- Premium section placeholder line 596 -->
+<!-- Premium section placeholder line 597 -->
+<!-- Premium section placeholder line 598 -->
+<!-- Premium section placeholder line 599 -->
+<!-- Premium section placeholder line 600 -->
+<!-- Premium section placeholder line 601 -->
+<!-- Premium section placeholder line 602 -->
+<!-- Premium section placeholder line 603 -->
+<!-- Premium section placeholder line 604 -->
+<!-- Premium section placeholder line 605 -->
+<!-- Premium section placeholder line 606 -->
+<!-- Premium section placeholder line 607 -->
+<!-- Premium section placeholder line 608 -->
+<!-- Premium section placeholder line 609 -->
+<!-- Premium section placeholder line 610 -->
+<!-- Premium section placeholder line 611 -->
+<!-- Premium section placeholder line 612 -->
+<!-- Premium section placeholder line 613 -->
+<!-- Premium section placeholder line 614 -->
+<!-- Premium section placeholder line 615 -->
+<!-- Premium section placeholder line 616 -->
+<!-- Premium section placeholder line 617 -->
+<!-- Premium section placeholder line 618 -->
+<!-- Premium section placeholder line 619 -->
+<!-- Premium section placeholder line 620 -->
+<!-- Premium section placeholder line 621 -->
+<!-- Premium section placeholder line 622 -->
+<!-- Premium section placeholder line 623 -->
+<!-- Premium section placeholder line 624 -->
+<!-- Premium section placeholder line 625 -->
+<!-- Premium section placeholder line 626 -->
+<!-- Premium section placeholder line 627 -->
+<!-- Premium section placeholder line 628 -->
+<!-- Premium section placeholder line 629 -->
+<!-- Premium section placeholder line 630 -->
+<!-- Premium section placeholder line 631 -->
+<!-- Premium section placeholder line 632 -->
+<!-- Premium section placeholder line 633 -->
+<!-- Premium section placeholder line 634 -->
+<!-- Premium section placeholder line 635 -->
+<!-- Premium section placeholder line 636 -->
+<!-- Premium section placeholder line 637 -->
+<!-- Premium section placeholder line 638 -->
+<!-- Premium section placeholder line 639 -->
+<!-- Premium section placeholder line 640 -->
+<!-- Premium section placeholder line 641 -->
+<!-- Premium section placeholder line 642 -->
+<!-- Premium section placeholder line 643 -->
+<!-- Premium section placeholder line 644 -->
+<!-- Premium section placeholder line 645 -->
+<!-- Premium section placeholder line 646 -->
+<!-- Premium section placeholder line 647 -->
+<!-- Premium section placeholder line 648 -->
+<!-- Premium section placeholder line 649 -->
+<!-- Premium section placeholder line 650 -->
+<!-- Premium section placeholder line 651 -->
+<!-- Premium section placeholder line 652 -->
+<!-- Premium section placeholder line 653 -->
+<!-- Premium section placeholder line 654 -->
+<!-- Premium section placeholder line 655 -->
+<!-- Premium section placeholder line 656 -->
+<!-- Premium section placeholder line 657 -->
+<!-- Premium section placeholder line 658 -->
+<!-- Premium section placeholder line 659 -->
+<!-- Premium section placeholder line 660 -->
+<!-- Premium section placeholder line 661 -->
+<!-- Premium section placeholder line 662 -->
+<!-- Premium section placeholder line 663 -->
+<!-- Premium section placeholder line 664 -->
+<!-- Premium section placeholder line 665 -->
+<!-- Premium section placeholder line 666 -->
+<!-- Premium section placeholder line 667 -->
+<!-- Premium section placeholder line 668 -->
+<!-- Premium section placeholder line 669 -->
+<!-- Premium section placeholder line 670 -->
+<!-- Premium section placeholder line 671 -->
+<!-- Premium section placeholder line 672 -->
+<!-- Premium section placeholder line 673 -->
+<!-- Premium section placeholder line 674 -->
+<!-- Premium section placeholder line 675 -->
+<!-- Premium section placeholder line 676 -->
+<!-- Premium section placeholder line 677 -->
+<!-- Premium section placeholder line 678 -->
+<!-- Premium section placeholder line 679 -->
+<!-- Premium section placeholder line 680 -->
+<!-- Premium section placeholder line 681 -->
+<!-- Premium section placeholder line 682 -->
+<!-- Premium section placeholder line 683 -->
+<!-- Premium section placeholder line 684 -->
+<!-- Premium section placeholder line 685 -->
+<!-- Premium section placeholder line 686 -->
+<!-- Premium section placeholder line 687 -->
+<!-- Premium section placeholder line 688 -->
+<!-- Premium section placeholder line 689 -->
+<!-- Premium section placeholder line 690 -->
+<!-- Premium section placeholder line 691 -->
+<!-- Premium section placeholder line 692 -->
+<!-- Premium section placeholder line 693 -->
+<!-- Premium section placeholder line 694 -->
+<!-- Premium section placeholder line 695 -->
+<!-- Premium section placeholder line 696 -->
+<!-- Premium section placeholder line 697 -->
+<!-- Premium section placeholder line 698 -->
+<!-- Premium section placeholder line 699 -->
+<!-- Premium section placeholder line 700 -->
+<!-- Premium section placeholder line 701 -->
+<!-- Premium section placeholder line 702 -->
+<!-- Premium section placeholder line 703 -->
+<!-- Premium section placeholder line 704 -->
+<!-- Premium section placeholder line 705 -->
+<!-- Premium section placeholder line 706 -->
+<!-- Premium section placeholder line 707 -->
+<!-- Premium section placeholder line 708 -->
+<!-- Premium section placeholder line 709 -->
+<!-- Premium section placeholder line 710 -->
+<!-- Premium section placeholder line 711 -->
+<!-- Premium section placeholder line 712 -->
+<!-- Premium section placeholder line 713 -->
+<!-- Premium section placeholder line 714 -->
+<!-- Premium section placeholder line 715 -->
+<!-- Premium section placeholder line 716 -->
+<!-- Premium section placeholder line 717 -->
+<!-- Premium section placeholder line 718 -->
+<!-- Premium section placeholder line 719 -->
+<!-- Premium section placeholder line 720 -->
+<!-- Premium section placeholder line 721 -->
+<!-- Premium section placeholder line 722 -->
+<!-- Premium section placeholder line 723 -->
+<!-- Premium section placeholder line 724 -->
+<!-- Premium section placeholder line 725 -->
+<!-- Premium section placeholder line 726 -->
+<!-- Premium section placeholder line 727 -->
+<!-- Premium section placeholder line 728 -->
+<!-- Premium section placeholder line 729 -->
+<!-- Premium section placeholder line 730 -->
+<!-- Premium section placeholder line 731 -->
+<!-- Premium section placeholder line 732 -->
+<!-- Premium section placeholder line 733 -->
+<!-- Premium section placeholder line 734 -->
+<!-- Premium section placeholder line 735 -->
+<!-- Premium section placeholder line 736 -->
+<!-- Premium section placeholder line 737 -->
+<!-- Premium section placeholder line 738 -->
+<!-- Premium section placeholder line 739 -->
+<!-- Premium section placeholder line 740 -->
+<!-- Premium section placeholder line 741 -->
+<!-- Premium section placeholder line 742 -->
+<!-- Premium section placeholder line 743 -->
+<!-- Premium section placeholder line 744 -->
+<!-- Premium section placeholder line 745 -->
+<!-- Premium section placeholder line 746 -->
+<!-- Premium section placeholder line 747 -->
+<!-- Premium section placeholder line 748 -->
+<!-- Premium section placeholder line 749 -->
+<!-- Premium section placeholder line 750 -->
+<!-- Premium section placeholder line 751 -->
+<!-- Premium section placeholder line 752 -->
+<!-- Premium section placeholder line 753 -->
+<!-- Premium section placeholder line 754 -->
+<!-- Premium section placeholder line 755 -->
+<!-- Premium section placeholder line 756 -->
+<!-- Premium section placeholder line 757 -->
+<!-- Premium section placeholder line 758 -->
+<!-- Premium section placeholder line 759 -->
+<!-- Premium section placeholder line 760 -->
+<!-- Premium section placeholder line 761 -->
+<!-- Premium section placeholder line 762 -->
+<!-- Premium section placeholder line 763 -->
+<!-- Premium section placeholder line 764 -->
+<!-- Premium section placeholder line 765 -->
+<!-- Premium section placeholder line 766 -->
+<!-- Premium section placeholder line 767 -->
+<!-- Premium section placeholder line 768 -->
+<!-- Premium section placeholder line 769 -->
+<!-- Premium section placeholder line 770 -->
+<!-- Premium section placeholder line 771 -->
+<!-- Premium section placeholder line 772 -->
+<!-- Premium section placeholder line 773 -->
+<!-- Premium section placeholder line 774 -->
+<!-- Premium section placeholder line 775 -->
+<!-- Premium section placeholder line 776 -->
+<!-- Premium section placeholder line 777 -->
+<!-- Premium section placeholder line 778 -->
+<!-- Premium section placeholder line 779 -->
+<!-- Premium section placeholder line 780 -->
+<!-- Premium section placeholder line 781 -->
+<!-- Premium section placeholder line 782 -->
+<!-- Premium section placeholder line 783 -->
+<!-- Premium section placeholder line 784 -->
+<!-- Premium section placeholder line 785 -->
+<!-- Premium section placeholder line 786 -->
+<!-- Premium section placeholder line 787 -->
+<!-- Premium section placeholder line 788 -->
+<!-- Premium section placeholder line 789 -->
+<!-- Premium section placeholder line 790 -->
+<!-- Premium section placeholder line 791 -->
+<!-- Premium section placeholder line 792 -->
+<!-- Premium section placeholder line 793 -->
+<!-- Premium section placeholder line 794 -->
+<!-- Premium section placeholder line 795 -->
+<!-- Premium section placeholder line 796 -->
+<!-- Premium section placeholder line 797 -->
+<!-- Premium section placeholder line 798 -->
+<!-- Premium section placeholder line 799 -->
+<!-- Premium section placeholder line 800 -->
+<!-- Premium section placeholder line 801 -->
+<!-- Premium section placeholder line 802 -->
+<!-- Premium section placeholder line 803 -->
+<!-- Premium section placeholder line 804 -->
+<!-- Premium section placeholder line 805 -->
+<!-- Premium section placeholder line 806 -->
+<!-- Premium section placeholder line 807 -->
+<!-- Premium section placeholder line 808 -->
+<!-- Premium section placeholder line 809 -->
+<!-- Premium section placeholder line 810 -->
+<!-- Premium section placeholder line 811 -->
+<!-- Premium section placeholder line 812 -->
+<!-- Premium section placeholder line 813 -->
+<!-- Premium section placeholder line 814 -->
+<!-- Premium section placeholder line 815 -->
+<!-- Premium section placeholder line 816 -->
+<!-- Premium section placeholder line 817 -->
+<!-- Premium section placeholder line 818 -->
+<!-- Premium section placeholder line 819 -->
+<!-- Premium section placeholder line 820 -->
+<!-- Premium section placeholder line 821 -->
+<!-- Premium section placeholder line 822 -->
+<!-- Premium section placeholder line 823 -->
+<!-- Premium section placeholder line 824 -->
+<!-- Premium section placeholder line 825 -->
+<!-- Premium section placeholder line 826 -->
+<!-- Premium section placeholder line 827 -->
+<!-- Premium section placeholder line 828 -->
+<!-- Premium section placeholder line 829 -->
+<!-- Premium section placeholder line 830 -->
+<!-- Premium section placeholder line 831 -->
+<!-- Premium section placeholder line 832 -->
+<!-- Premium section placeholder line 833 -->
+<!-- Premium section placeholder line 834 -->
+<!-- Premium section placeholder line 835 -->
+<!-- Premium section placeholder line 836 -->
+<!-- Premium section placeholder line 837 -->
+<!-- Premium section placeholder line 838 -->
+<!-- Premium section placeholder line 839 -->
+<!-- Premium section placeholder line 840 -->
+<!-- Premium section placeholder line 841 -->
+<!-- Premium section placeholder line 842 -->
+<!-- Premium section placeholder line 843 -->
+<!-- Premium section placeholder line 844 -->
+<!-- Premium section placeholder line 845 -->
+<!-- Premium section placeholder line 846 -->
+<!-- Premium section placeholder line 847 -->
+<!-- Premium section placeholder line 848 -->
+<!-- Premium section placeholder line 849 -->
+<!-- Premium section placeholder line 850 -->
+<!-- Premium section placeholder line 851 -->
+<!-- Premium section placeholder line 852 -->
+<!-- Premium section placeholder line 853 -->
+<!-- Premium section placeholder line 854 -->
+<!-- Premium section placeholder line 855 -->
+<!-- Premium section placeholder line 856 -->
+<!-- Premium section placeholder line 857 -->
+<!-- Premium section placeholder line 858 -->
+<!-- Premium section placeholder line 859 -->
+<!-- Premium section placeholder line 860 -->
+<!-- Premium section placeholder line 861 -->
+<!-- Premium section placeholder line 862 -->
+<!-- Premium section placeholder line 863 -->
+<!-- Premium section placeholder line 864 -->
+<!-- Premium section placeholder line 865 -->
+<!-- Premium section placeholder line 866 -->
+<!-- Premium section placeholder line 867 -->
+<!-- Premium section placeholder line 868 -->
+<!-- Premium section placeholder line 869 -->
+<!-- Premium section placeholder line 870 -->
+<!-- Premium section placeholder line 871 -->
+<!-- Premium section placeholder line 872 -->
+<!-- Premium section placeholder line 873 -->
+<!-- Premium section placeholder line 874 -->
+<!-- Premium section placeholder line 875 -->
+<!-- Premium section placeholder line 876 -->
+<!-- Premium section placeholder line 877 -->
+<!-- Premium section placeholder line 878 -->
+<!-- Premium section placeholder line 879 -->
+<!-- Premium section placeholder line 880 -->
+<!-- Premium section placeholder line 881 -->
+<!-- Premium section placeholder line 882 -->
+<!-- Premium section placeholder line 883 -->
+<!-- Premium section placeholder line 884 -->
+<!-- Premium section placeholder line 885 -->
+<!-- Premium section placeholder line 886 -->
+<!-- Premium section placeholder line 887 -->
+<!-- Premium section placeholder line 888 -->
+<!-- Premium section placeholder line 889 -->
+<!-- Premium section placeholder line 890 -->
+<!-- Premium section placeholder line 891 -->
+<!-- Premium section placeholder line 892 -->
+<!-- Premium section placeholder line 893 -->
+<!-- Premium section placeholder line 894 -->
+<!-- Premium section placeholder line 895 -->
+<!-- Premium section placeholder line 896 -->
+<!-- Premium section placeholder line 897 -->
+<!-- Premium section placeholder line 898 -->
+<!-- Premium section placeholder line 899 -->
+<!-- Premium section placeholder line 900 -->
+<!-- Premium section placeholder line 901 -->
+<!-- Premium section placeholder line 902 -->
+<!-- Premium section placeholder line 903 -->
+<!-- Premium section placeholder line 904 -->
+<!-- Premium section placeholder line 905 -->
+<!-- Premium section placeholder line 906 -->
+<!-- Premium section placeholder line 907 -->
+<!-- Premium section placeholder line 908 -->
+<!-- Premium section placeholder line 909 -->
+<!-- Premium section placeholder line 910 -->
+<!-- Premium section placeholder line 911 -->
+<!-- Premium section placeholder line 912 -->
+<!-- Premium section placeholder line 913 -->
+<!-- Premium section placeholder line 914 -->
+<!-- Premium section placeholder line 915 -->
+<!-- Premium section placeholder line 916 -->
+<!-- Premium section placeholder line 917 -->
+<!-- Premium section placeholder line 918 -->
+<!-- Premium section placeholder line 919 -->
+<!-- Premium section placeholder line 920 -->
+<!-- Premium section placeholder line 921 -->
+<!-- Premium section placeholder line 922 -->
+<!-- Premium section placeholder line 923 -->
+<!-- Premium section placeholder line 924 -->
+<!-- Premium section placeholder line 925 -->
+<!-- Premium section placeholder line 926 -->
+<!-- Premium section placeholder line 927 -->
+<!-- Premium section placeholder line 928 -->
+<!-- Premium section placeholder line 929 -->
+<!-- Premium section placeholder line 930 -->
+<!-- Premium section placeholder line 931 -->
+<!-- Premium section placeholder line 932 -->
+<!-- Premium section placeholder line 933 -->
+<!-- Premium section placeholder line 934 -->
+<!-- Premium section placeholder line 935 -->
+<!-- Premium section placeholder line 936 -->
+<!-- Premium section placeholder line 937 -->
+<!-- Premium section placeholder line 938 -->
+<!-- Premium section placeholder line 939 -->
+<!-- Premium section placeholder line 940 -->
+<!-- Premium section placeholder line 941 -->
+<!-- Premium section placeholder line 942 -->
+<!-- Premium section placeholder line 943 -->
+<!-- Premium section placeholder line 944 -->
+<!-- Premium section placeholder line 945 -->
+<!-- Premium section placeholder line 946 -->
+<!-- Premium section placeholder line 947 -->
+<!-- Premium section placeholder line 948 -->
+<!-- Premium section placeholder line 949 -->
+<!-- Premium section placeholder line 950 -->
+<!-- Premium section placeholder line 951 -->
+<!-- Premium section placeholder line 952 -->
+<!-- Premium section placeholder line 953 -->
+<!-- Premium section placeholder line 954 -->
+<!-- Premium section placeholder line 955 -->
+<!-- Premium section placeholder line 956 -->
+<!-- Premium section placeholder line 957 -->
+<!-- Premium section placeholder line 958 -->
+<!-- Premium section placeholder line 959 -->
+<!-- Premium section placeholder line 960 -->
+<!-- Premium section placeholder line 961 -->
+<!-- Premium section placeholder line 962 -->
+<!-- Premium section placeholder line 963 -->
+<!-- Premium section placeholder line 964 -->
+<!-- Premium section placeholder line 965 -->
+<!-- Premium section placeholder line 966 -->
+<!-- Premium section placeholder line 967 -->
+<!-- Premium section placeholder line 968 -->
+<!-- Premium section placeholder line 969 -->
+<!-- Premium section placeholder line 970 -->
+<!-- Premium section placeholder line 971 -->
+<!-- Premium section placeholder line 972 -->
+<!-- Premium section placeholder line 973 -->
+<!-- Premium section placeholder line 974 -->
+<!-- Premium section placeholder line 975 -->
+<!-- Premium section placeholder line 976 -->
+<!-- Premium section placeholder line 977 -->
+<!-- Premium section placeholder line 978 -->
+<!-- Premium section placeholder line 979 -->
+<!-- Premium section placeholder line 980 -->
+<!-- Premium section placeholder line 981 -->
+<!-- Premium section placeholder line 982 -->
+<!-- Premium section placeholder line 983 -->
+<!-- Premium section placeholder line 984 -->
+<!-- Premium section placeholder line 985 -->
+<!-- Premium section placeholder line 986 -->
+<!-- Premium section placeholder line 987 -->
+<!-- Premium section placeholder line 988 -->
+<!-- Premium section placeholder line 989 -->
+<!-- Premium section placeholder line 990 -->
+<!-- Premium section placeholder line 991 -->
+<!-- Premium section placeholder line 992 -->
+<!-- Premium section placeholder line 993 -->
+<!-- Premium section placeholder line 994 -->
+<!-- Premium section placeholder line 995 -->
+<!-- Premium section placeholder line 996 -->
+<!-- Premium section placeholder line 997 -->
+<!-- Premium section placeholder line 998 -->
+<!-- Premium section placeholder line 999 -->
+<!-- Premium section placeholder line 1000 -->
+<!-- Premium section placeholder line 1001 -->
+<!-- Premium section placeholder line 1002 -->
+<!-- Premium section placeholder line 1003 -->
+<!-- Premium section placeholder line 1004 -->
+<!-- Premium section placeholder line 1005 -->
+<!-- Premium section placeholder line 1006 -->
+<!-- Premium section placeholder line 1007 -->
+<!-- Premium section placeholder line 1008 -->
+<!-- Premium section placeholder line 1009 -->
+<!-- Premium section placeholder line 1010 -->
+<!-- Premium section placeholder line 1011 -->
+<!-- Premium section placeholder line 1012 -->
+<!-- Premium section placeholder line 1013 -->
+<!-- Premium section placeholder line 1014 -->
+<!-- Premium section placeholder line 1015 -->
+<!-- Premium section placeholder line 1016 -->
+<!-- Premium section placeholder line 1017 -->
+<!-- Premium section placeholder line 1018 -->
+<!-- Premium section placeholder line 1019 -->
+<!-- Premium section placeholder line 1020 -->
+<!-- Premium section placeholder line 1021 -->
+<!-- Premium section placeholder line 1022 -->
+<!-- Premium section placeholder line 1023 -->
+<!-- Premium section placeholder line 1024 -->
+<!-- Premium section placeholder line 1025 -->
+<!-- Premium section placeholder line 1026 -->
+<!-- Premium section placeholder line 1027 -->
+<!-- Premium section placeholder line 1028 -->
+<!-- Premium section placeholder line 1029 -->
+<!-- Premium section placeholder line 1030 -->
+<!-- Premium section placeholder line 1031 -->
+<!-- Premium section placeholder line 1032 -->
+<!-- Premium section placeholder line 1033 -->
+<!-- Premium section placeholder line 1034 -->
+<!-- Premium section placeholder line 1035 -->
+<!-- Premium section placeholder line 1036 -->
+<!-- Premium section placeholder line 1037 -->
+<!-- Premium section placeholder line 1038 -->
+<!-- Premium section placeholder line 1039 -->
+<!-- Premium section placeholder line 1040 -->
+<!-- Premium section placeholder line 1041 -->
+<!-- Premium section placeholder line 1042 -->
+<!-- Premium section placeholder line 1043 -->
+<!-- Premium section placeholder line 1044 -->
+<!-- Premium section placeholder line 1045 -->
+<!-- Premium section placeholder line 1046 -->
+<!-- Premium section placeholder line 1047 -->
+<!-- Premium section placeholder line 1048 -->
+<!-- Premium section placeholder line 1049 -->
+<!-- Premium section placeholder line 1050 -->
+<!-- Premium section placeholder line 1051 -->
+<!-- Premium section placeholder line 1052 -->
+<!-- Premium section placeholder line 1053 -->
+<!-- Premium section placeholder line 1054 -->
+<!-- Premium section placeholder line 1055 -->
+<!-- Premium section placeholder line 1056 -->
+<!-- Premium section placeholder line 1057 -->
+<!-- Premium section placeholder line 1058 -->
+<!-- Premium section placeholder line 1059 -->
+<!-- Premium section placeholder line 1060 -->
+<!-- Premium section placeholder line 1061 -->
+<!-- Premium section placeholder line 1062 -->
+<!-- Premium section placeholder line 1063 -->
+<!-- Premium section placeholder line 1064 -->
+<!-- Premium section placeholder line 1065 -->
+<!-- Premium section placeholder line 1066 -->
+<!-- Premium section placeholder line 1067 -->
+<!-- Premium section placeholder line 1068 -->
+<!-- Premium section placeholder line 1069 -->
+<!-- Premium section placeholder line 1070 -->
+<!-- Premium section placeholder line 1071 -->
+<!-- Premium section placeholder line 1072 -->
+<!-- Premium section placeholder line 1073 -->
+<!-- Premium section placeholder line 1074 -->
+<!-- Premium section placeholder line 1075 -->
+<!-- Premium section placeholder line 1076 -->
+<!-- Premium section placeholder line 1077 -->
+<!-- Premium section placeholder line 1078 -->
+<!-- Premium section placeholder line 1079 -->
+<!-- Premium section placeholder line 1080 -->
+<!-- Premium section placeholder line 1081 -->
+<!-- Premium section placeholder line 1082 -->
+<!-- Premium section placeholder line 1083 -->
+<!-- Premium section placeholder line 1084 -->
+<!-- Premium section placeholder line 1085 -->
+<!-- Premium section placeholder line 1086 -->
+<!-- Premium section placeholder line 1087 -->
+<!-- Premium section placeholder line 1088 -->
+<!-- Premium section placeholder line 1089 -->
+<!-- Premium section placeholder line 1090 -->
+<!-- Premium section placeholder line 1091 -->
+<!-- Premium section placeholder line 1092 -->
+<!-- Premium section placeholder line 1093 -->
+<!-- Premium section placeholder line 1094 -->
+<!-- Premium section placeholder line 1095 -->
+<!-- Premium section placeholder line 1096 -->
+<!-- Premium section placeholder line 1097 -->
+<!-- Premium section placeholder line 1098 -->
+<!-- Premium section placeholder line 1099 -->
+<!-- Premium section placeholder line 1100 -->
