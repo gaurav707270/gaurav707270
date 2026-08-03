@@ -158,23 +158,29 @@
 
 <div align="center">
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gaurav707270&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav707270&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <h3>📊 GitHub Stats</h3>
+
+  <!-- Row 1: Main Stats & Languages Card -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaurav707270&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=false" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav707270&layout=compact&card_width=320&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=30363d&hide_border=false" height="165" alt="Top Languages" />
+  </p>
+
+  <!-- Row 2: Streak Card -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=gaurav707270&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" height="165" alt="Streak Graph" />
+  </p>
+
+  <!-- Row 3: Trophy Row -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=gaurav707270&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true" height="130" alt="GitHub Trophies" />
   </p>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=gaurav707270&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav707270&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-  <br/><br/>
-
-  ### 📈 Contribution Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav707270&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+  <!-- Row 4: Contribution Activity Graph -->
+  <h3>📈 Contribution Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav707270&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 
   <br/><br/>
 
