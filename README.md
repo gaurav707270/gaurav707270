@@ -1,12 +1,13 @@
-<!-- HEADER BANNER -->
 <div align="center">
+
+  <!-- HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=12,6C63FF,3B82F6&height=200&section=header&text=Gaurav%20Kharate&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Engineer%20%E2%80%A2%20MERN%20Architect%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
   
   <br/>
   
   <!-- TYPING SVG -->
-  <a href="https://github.com/gaurav707270">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vcenter=true&width=600&height=50&lines=Full+Stack+MERN+Engineer;Scalable+System+Architect;Data+Structures+%26+Algorithms;Building+Modern+Enterprise+Apps;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Engineer;Scalable+System+Architect;Data+Structures+%26+Algorithms;Building+Modern+Enterprise+Apps;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -21,12 +22,29 @@
   <br/><br/>
 
   <!-- METRIC BADGES -->
-  <img src="https://komarev.com/ghpvc/?username=gaurav707270&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/gaurav707270?label=FOLLOWERS&style=for-the-badge&color=3B82F6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/gaurav707270?label=TOTAL%20STARS&style=for-the-badge&color=8B5CF6" alt="GitHub Stars" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=gaurav707270&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/gaurav707270?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/gaurav707270?label=TOTAL%20STARS&style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="GitHub Stars" />
 
-<br/>
+  <br/><br/>
+
+  <!-- STATS SECTION -->
+  <h3>📊 GitHub Stats</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaurav707270&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav707270&layout=compact&card_width=320&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
+  </div>
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=gaurav707270&mode=weekly&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gaurav707270&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true" height="150" alt="trophy graph" />
+  </div>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav707270&radius=16&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" height="300" alt="activity graph" />
+  </div>
+
+  <br/>
+
+</div>
 
 ---
 
@@ -147,38 +165,6 @@
 * **Links:** 
   [![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gaurav707270)
   ![Status](https://img.shields.io/badge/System_Status-Stable-238636?style=flat-square)
-
-<br/>
-
----
-
-## 📊 GitHub Analytics & Engineering Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gaurav707270&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav707270&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=gaurav707270&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav707270&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-  <br/><br/>
-
-  ### 📈 Contribution Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav707270&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
-</div>
 
 <br/>
 
