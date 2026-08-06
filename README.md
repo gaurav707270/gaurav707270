@@ -3,12 +3,8 @@
   <!-- HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=12,6C63FF,3B82F6&height=200&section=header&text=Gaurav%20Kharate&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Engineer%20%E2%80%A2%20MERN%20Architect%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
   
-  <br/>
-  
   <div align="center">
   
-#### `Full Stack Developer | UI/UX Enthusiast | Building & Learning in Public`
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="730">
