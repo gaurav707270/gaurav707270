@@ -5,6 +5,16 @@
   
   <br/>
   
+  <div align="center">
+  
+#### `Full Stack Developer | UI/UX Enthusiast | Building & Learning in Public`
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="730">
+
+</div>
+  
   <!-- TYPING SVG -->
   <a href="https://github.com/gaurav707270">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vcenter=true&width=600&height=50&lines=Full+Stack+MERN+Engineer;Scalable+System+Architect;Data+Structures+%26+Algorithms;Building+Modern+Enterprise+Apps;Open+Source+Contributor" alt="Typing SVG" />
