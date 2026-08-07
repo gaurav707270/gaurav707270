@@ -190,8 +190,11 @@
 
   <br/><br/>
 
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/gaurav707270/gaurav707270/output/snake.svg" alt="Snake animation" />
+ # 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 </div>
 
