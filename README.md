@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=12,6C63FF,3B82F6&height=200&section=header&text=Gaurav%20Kharate&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Engineer%20%E2%80%A2%20MERN%20Architect%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
   
   <div align="center">
