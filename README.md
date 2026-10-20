@@ -14,7 +14,7 @@
 </div>
 
   
-  <!-- TYPING SVG -->
+  <!-- TYPING SVG -->//
   <a href="https://github.com/gaurav707270">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vcenter=true&width=600&height=50&lines=Full+Stack+MERN+Engineer;Scalable+System+Architect;Data+Structures+%26+Algorithms;Building+Modern+Enterprise+Apps;Open+Source+Contributor" alt="Typing SVG" />
   </a>
